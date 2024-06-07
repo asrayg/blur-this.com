@@ -1,6 +1,6 @@
 # blur.com  - Privacy Tool Application
 
-The Privacy Tool application is designed to provide users with a range of privacy-related features such as blurring faces and eyes in images and videos, and redacting sensitive information in PDFs. This project comprises two main components: the frontend and the backend.
+The Privacy Tool application is designed to provide users with a range of privacy-related features such as blurring faces and eyes in images and videos, and redacting sensitive information in PDFs. This project comprises two main components: the frontend and the backend. Uses computer vision and custom made models in the backend
 
 ## Table of Contents
 
